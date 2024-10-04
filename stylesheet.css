@@ -1,0 +1,48 @@
+html {
+    width:100vw;
+    height:50vh;
+}
+
+table,th,td{
+    border:1px solid lightblue;
+    text-align: center
+    }
+            
+.Mainhead > h1{
+    color:lightblue;
+    text-align:center;
+    font-family:Times;
+    }
+    
+.Mainhead > p{
+    color:lightblue;
+    font-family:Times;
+}
+    
+h3{
+    color:lightblue;
+    font-family:Times;
+}
+
+#bullets{
+    font-family:Times;
+    }
+    
+    /* This is where I use CSS selectors to style one part of my code within a class*/
+    
+.blossom > h2{
+    font-family:Georgia;
+    color:black;
+    text-align:center;
+    background-color:beige;
+    }
+    
+.blossom > p {
+    font-family:Georgia;
+}
+
+.blossom > li{
+    font-family:Georgia;
+    color:black;
+}
+
